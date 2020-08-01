@@ -1,0 +1,13 @@
+3 Feb 2014
+Edited file 'mainApp.m'. The first block is for initial defaults of the program, which can be re-defined by users.
+
+18 Jan 2014
+Added files 'documentation.doc' and 'documentation.pdf'. They contains detailed instructions for using the program.
+
+19 Oct 2013
+1, Completed the last two groups of twinning systems.
+2, The rotation toolbar is always selected.
+
+17 Oct 2013
+1, Added twinning systems, at the bottom of the list. (according to the hexaSchmid). Last two Groups are not done.
+2, Fixed the bug of not showing 2 of the top layer atoms. 
